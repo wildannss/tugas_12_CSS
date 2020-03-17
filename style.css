@@ -1,0 +1,48 @@
+body {
+    background-image: linear-gradient(to bottom right, aqua , white);
+}
+
+.slider-img {
+    border-bottom: solid black;
+}
+
+.image {
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+ul {
+    background-color: black;
+    padding: 10px;
+
+}
+
+li {
+    display: inline;
+    column-count: 4;
+    column-gap: 30px;
+    margin-right: 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer {
+    font-size: 12pt;
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+p {
+    text-align: justify;
+    column-count: 4;
+    column-rule: 3px solid black;
+}
